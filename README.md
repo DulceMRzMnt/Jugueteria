@@ -1,6 +1,4 @@
 # Jugueteria
-
-Prueba de juguetería
-Descargar el archivo de este respositorio
-Ejecutar jugueteri
-Los productos ingresados en juguete se veran reflejados en el front
+Descargar el archivo de este respositorio,
+Ejecutar jugueteri,
+Los productos ingresados en juguete se veran reflejados en el front.
